@@ -1,0 +1,29 @@
+{
+  "name": "plane-booking-api",
+  "version": "1.0.0",
+  "description": "Plane booking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidannan/Plane-booking-Api.git"
+  },
+  "keywords": [
+    "Book",
+    "Ticket"
+  ],
+  "author": "David Annan Anum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidannan/Plane-booking-Api/issues"
+  },
+  "homepage": "https://github.com/davidannan/Plane-booking-Api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
